@@ -1,6 +1,6 @@
 # @Manikyak/tiny
 
-[![npm (scoped)](https://img.shields.io/npm/v/@Manikyak/tiny.svg)](https://www.npmjs.com/package/@Manikyak/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@Manikyak/tiny.svg)](https://www.npmjs.com/package/@manikyak/tiny)
 
 
 Removes all spaces from a string.
@@ -8,13 +8,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @Manikyak/tiny 
+$ npm install @manikyak/tiny 
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@Manikyak/tiny");
+const tiny = require("@manikyak/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
