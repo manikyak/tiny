@@ -1,7 +1,7 @@
 # @Manikyak/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@manikyak/tiny.svg)](https://www.npmjs.com/package/@manikyak/tiny)
-https://img.shields.io/npm/l/@manikyak/tiny.svg
+[![npm (scoped)](https://img.shields.io/npm/l/@manikyak/tiny.svg)](https://www.npmjs.com/package/@manikyak/tiny)
 
 
 Removes all spaces from a string.
